@@ -1,0 +1,300 @@
+@charset "utf-8";
+
+
+body{
+	height: auto;
+	width: 1080px;
+	padding: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+
+.img hover 
+{filter-blur: 5px;
+}
+
+body main h6 {
+	background-color: #becda4;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Avenir;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 30px;
+}
+
+button{
+  height: 45px; 
+  padding-left: 5px;
+  padding-right: 5px;   
+  margin-bottom: 20px; 
+  margin-top: 10px;   
+  text-transform: uppercase;
+  background-color: #2a4057; 
+ 
+ 
+  border-radius: 10px;  
+  width: 200px;   
+  cursor: pointer;
+}
+
+
+button p{
+  color: #fff; 
+}
+
+
+*{
+	margin:0;
+	box-sizing:border-box;
+}
+
+header,nav,main, section, footer{
+	margin: 0 auto;
+}
+
+
+header {
+	background-color: #FFFFFF;
+	color: white;
+	height: 150px;
+	width: 100%;
+	padding: 20px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+
+
+nav{
+    height: auto;
+    width: auto;
+    padding-top: 11px;
+    padding-bottom: 20px;
+    font-size: large;
+    vertical-align: middle;
+    font-family: "Caviar Dreams";
+    font-weight: bolder;
+    text-decoration: none;
+    color: #FBFBFB;
+    display: inline;
+}
+.segunda .nuevos {
+    font-family: "Caviar Dreams";
+    font-weight: bolder;
+    font-size: 21px;
+    padding-top: 152px;
+}
+.cuarta img {
+}
+
+
+.segunda .nuep {
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+
+nav ul li {
+    list-style-type: none;
+    width: 200px;
+    background-color: #2a4057;
+    margin-left: 10PX;
+    margin-top: 90PX;
+    margin-right: 40PX;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    display: inline-block;
+    height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 50px
+}
+
+a:visited{
+	color: #FFFFFF;
+}
+
+
+main{
+	width: 1080px;
+	height: auto;
+	background-color: #FFFFFF;
+	
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+
+section{
+	width: 1080px;
+	height: auto;
+	
+	
+}
+
+
+
+footer {
+    background-color: #bb731c;
+    color: white;
+    font-size: 17px;
+    height: 300px;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding: 30px;
+    text-align: left;
+    vertical-align: 80px;
+    word-spacing: 0;
+    letter-spacing: 0;
+    font-family: "Avenir LT 45 Book";
+    
+}
+
+
+
+body header img {
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+.primera {
+	background-color: #FFFFFF;
+	padding: 20px;
+}
+.primera img {
+    margin-right: 5px;
+}
+
+
+.segunda {
+	background-color: #2a4057;
+	margin: 0px;
+	width: 1080px;
+	padding: 15px;
+}
+
+.tercera {
+    background-color: #FFFFFF;
+    padding-top: 21px;
+    padding-right: 21px;
+    padding-left: 21px;
+    padding-bottom: 21px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tercera img {
+    padding-top: 14px;
+    padding-left: 0px;
+    margin-left: -16px;
+}
+main section img {
+    margin-left: 3px;
+    margin-right: 21px;
+}
+
+
+
+.cuarta {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+	
+}
+
+.quinta {
+    margin-bottom: -23px;
+    text-align: center;
+}
+.segunda .nuevos {
+    float: left;
+    text-align: left;
+    text-indent: 0;
+    color: #FFFFFF;
+    margin-right: 30px;
+
+}
+.segunda img {
+    margin-left: 10px;
+}
+.primera h1 {
+    font-family: "Caviar Dreams";
+    color: #BB731C;
+    text-align: center;
+    font-weight: bolder;
+}
+.primera p {
+    font-family: "Avenir LT 45 Book";
+    font-size: large;
+    text-align: center;
+}
+.tercera .mision {
+    background-color: #2A4057;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 480px;
+    border-radius: 20px;
+    height: 500px;
+    float: left;
+    margin-right: 23px;
+    margin-left: 16px;
+}
+.tercera .mision p {
+    font-family: "Avenir LT 45 Book";
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+
+.tercera .mision h1 {
+    font-family: "Caviar Dreams";
+    color: #FFFFFF;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 46px;
+}
+.tercera .vision h1 {
+	font-family: "Caviar Dreams";
+    color: #FFFFFF;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 46px;
+}
+.tercera .vision p {
+	font-family: "Avenir LT 45 Book";
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+
+
+.tercera .vision {
+    background-color: #bb731c;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 480px;
+    border-radius: 20px;
+    height: 500px;
+    float: left;
+}
+nav ul img {
+}
+.carrito {
+    float: right;
+}
+
+
+
